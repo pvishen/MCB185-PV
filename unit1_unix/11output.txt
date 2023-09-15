@@ -1,0 +1,37 @@
+Hello pearlvishen, your home is /Users/pearlvishen, and your shell is /bin/zsh
+/Users/pearlvishen/Code/ML & ds bootcamp:
+data
+env
+images
+python
+
+/Users/pearlvishen/Code/classes:
+ecs32b
+sta35a
+sta35b
+sta35c
+
+/Users/pearlvishen/Code/eclipse-workspace:
+Celebrity Lab
+Celebrity Lab Real
+ConsumerReview
+PixLab
+PixLab (Real)
+PixLab (Real).zip
+cbs2
+codebatStrings2
+codebstring2
+eclipse
+pixlab real real
+
+/Users/pearlvishen/Code/github_repos:
+MCB185
+
+/Users/pearlvishen/Code/opt:
+anaconda3
+miniconda3
+
+/Users/pearlvishen/Code/projects:
+GDSC Datasets
+aisc proj 1
+E.coli
