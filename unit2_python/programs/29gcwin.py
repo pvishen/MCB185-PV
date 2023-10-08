@@ -15,9 +15,10 @@ seq = 'ACGACGCAGGAGGAGAGTTTCAGAGATCACGAATACATCCATATTACCCAGAGAGAG'
 
 gc_count = 0
 print(len(seq))
+w = 11
 
-for nt in range(len(seq)-10):
-    window = seq[nt:nt+11]
+for nt in range(len(seq) - w + 1):
+    window = seq[nt:nt+w]
     gc_count = 0
     for i in range(len(window)):
         if window[i] == "G" or window[i] == "C":
